@@ -2,7 +2,7 @@
 
 This directory contains the Python implementation for extracting structural feature vectors from the MNIST dataset of handwritten digits.
 
-## 📌 Experimental Objective
+## Experimental Objective
 The primary objective of this experiment is to transform raw pixel data into meaningful, low-dimensional feature vectors suitable for downstream Machine Learning classification models. The applied methodology encompasses:
 
 1. **Binarization**: Transforming grayscale images into a binary format applying a predefined threshold.
